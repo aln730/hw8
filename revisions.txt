@@ -1,0 +1,11 @@
+commit a1919a731fd87098950103126e82a4aab1d322ad
+Author: Arnav Satish Gawas <asg7201@rit.edu>
+Date:   Thu Dec 4 13:52:57 2025 -0500
+
+    me when I had already implemented something similar for advent of code (implemented the main function)
+
+commit 4f33272e2ee234d5f2aa2bfbe68b1fa4a3862642
+Author: Arnav Satish Gawas <asg7201@rit.edu>
+Date:   Thu Dec 4 13:34:55 2025 -0500
+
+    init
