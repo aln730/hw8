@@ -82,10 +82,10 @@ int main(int argc, char *argv[]) {
     fclose(fp);
 
     if (print_flag) {
-        printf("Unsorted list before non-threaded quicksort: ");
+        printf("Unsorted list before non-threaded quicksort:  ");
         for (size_t i = 0; i < n; i++) {
             printf("%d", arr[i]);
-            if (i < n - 1) printf(",");
+            if (i < n - 1) printf(", ");
         }
         printf("\n");
     }
@@ -93,10 +93,10 @@ int main(int argc, char *argv[]) {
     int *sorted = quicksort(n, arr);
 
     if (print_flag) {
-        printf("Resulting list: ");
+        printf("Resulting list:  ");
         for (size_t i = 0; i < n; i++) {
             printf("%d", sorted[i]);
-            if (i < n - 1) printf(",");
+            if (i < n - 1) printf(", ");
         }
         printf("\n");
     }
