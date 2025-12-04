@@ -56,7 +56,7 @@ int main(int argc, char *argv[]) {
     } else if (argc == 2) {
         filename = argv[1];
     } else {
-        fprintf(stderr, "usage: %s [-p] <inputfile>\n", argv[0]);
+        fprintf(stderr, "usage: %s [-p] file_of_ints\n", argv[0]);
         return 1;
     }
 
