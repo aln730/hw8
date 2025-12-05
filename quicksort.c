@@ -151,6 +151,9 @@ void *quicksort_threaded(void *ptr) {
 
     free(sorted_less);
     free(sorted_more);
+    free(less);
+    free(more);
+
 
     pthread_exit(result);
 }
