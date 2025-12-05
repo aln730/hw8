@@ -1,3 +1,39 @@
+commit 5bc6f769c3a92b44ce28ea145872ec728e091d03
+Author: Arnav Satish Gawas <asg7201@rit.edu>
+Date:   Fri Dec 5 13:50:15 2025 -0500
+
+    fixed valgrind issue
+
+commit 54ea5eb28224c7153217931b79b86ed432a6751c
+Author: Arnav Satish Gawas <asg7201@rit.edu>
+Date:   Fri Dec 5 13:44:27 2025 -0500
+
+    implemented threaded quicksort
+
+commit 291e95167ab2ccdf440ebec5ff7024e6ef0829e4
+Author: Arnav Satish Gawas <asg7201@rit.edu>
+Date:   Thu Dec 4 14:28:36 2025 -0500
+
+    small changes
+
+commit b0b1ca140c4da2bf5dd1ce9277c4dd840dc0016e
+Author: Arnav Satish Gawas <asg7201@rit.edu>
+Date:   Thu Dec 4 14:26:13 2025 -0500
+
+    small changes in print
+
+commit 7e83bb291718d34305ea74e2d83bd21e1355e8c9
+Author: Arnav Satish Gawas <asg7201@rit.edu>
+Date:   Thu Dec 4 14:22:20 2025 -0500
+
+    implemented unthreaded quicksort
+
+commit 31a49b646593294851e0855cdb3debcfc601dc52
+Author: Arnav Satish Gawas <asg7201@rit.edu>
+Date:   Thu Dec 4 13:55:57 2025 -0500
+
+    git log moment
+
 commit a1919a731fd87098950103126e82a4aab1d322ad
 Author: Arnav Satish Gawas <asg7201@rit.edu>
 Date:   Thu Dec 4 13:52:57 2025 -0500
